@@ -1,0 +1,15 @@
+27/01
+Make menus with Drupal
+Finish Flags
+Have a look at - Requested:
+	Content types
+	Workflows
+	Permissions
+	Categories Searching Navigation
+	
+Have a look at - Self:
+	Views
+	Blocks from views
+	Homepage using view blocks
+
+Assignments - none.

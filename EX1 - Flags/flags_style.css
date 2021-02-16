@@ -1,0 +1,138 @@
+body{
+    background-color:darkslategrey;
+}
+.flag {
+    display:inline-block;
+    width:360px;
+    height:230px;
+    margin:20px;
+    padding:10px;
+    box-shadow: 0px 0px 20px 1px black;
+    background-color:#222;
+    color:white;
+    position:relative;
+    overflow:hidden;
+}
+.flag-half {
+    display:block;
+    width:100%;
+    height:90px;
+}
+.flag-half-side{
+    display:inline-block;
+    width:180px;
+    height:180px;
+}
+.flag-third {
+    display:block;
+    width:360px;
+    height:60px;
+}
+p {
+/*    border-top: 2px solid black;*/
+    padding-left:15px;
+    display:block;
+    text-align: center;
+}
+.lativaTopBottom{
+    display:block;
+    width:360px;
+    height:75px;
+    background-color:darkred;
+}
+
+.lativaMiddle{
+    display:block;
+    width:360px;
+    height:30px;
+    background-color:white;
+}
+
+.flag-third-side {
+    display:inline-block;
+    float:left;
+    width:120px;
+    height:180px;
+    margin:0px;
+    
+}
+.flag-half-thirds {
+    display:block;
+    float:right;
+    width:240px;
+    height:90px;
+    margin:0px;
+}
+.flag-circle {
+    width:120px;
+    height:120px;
+    margin-left:120px;
+    margin-right:120px;
+    border-radius: 50%;
+}
+.flag-circle-small{
+    display:block;
+    width:80px;
+    height:80px;
+    margin-top:5px;
+    margin-left:135px;
+    margin-right:135px;
+    border-radius: 50%;
+}
+.flag-solid {
+    display:block;
+    margin:0px;
+    padding:0px;
+    padding-top:30px;
+    width:360px;
+    height:150px;
+}
+
+.laos-center{
+    display:block;
+    float:left;
+    width:360px;
+    height:90px;
+}
+.laos-topBottom{
+    display:block;
+    float:left;
+    width:360px;
+    height:45px;
+    background-color:darkred;
+}
+
+.denmarkHorizontal{
+    display:block;
+    width:360px;
+    height:30px;
+    margin-top:45px;
+}
+
+.denmarkVertical{
+    display:block;
+    width:30px;
+    height:180px;
+    margin-top:-105px;
+    margin-left:100px;
+}
+.uruguayStripe{
+    display:block;
+    width:360px;
+    height:20px;
+}
+.uruguayCanton{
+    display:block;
+    clear:both;
+    float:left;
+    width:100px;
+    height:100px;
+}
+.switzCrossPart {
+    position:relative;
+    float:left;
+    clear:none;
+    width:45px;
+    height:45px;
+    background-color:white;
+}
