@@ -79,7 +79,7 @@ nav a {
 	text-decoration: none;
 	font-family: 'Work Sans', sans-serif;
 	font-size: 1.5em;
-	font-color:black;
+	color:black;
 }
 nav a:visited {
 	color:black;
@@ -95,19 +95,6 @@ div{
 	top:-60px;
 	height:0px;
 	width:fill;
-}
-div div {
-	position:relative;
-	top:15px;
-	width:fill;
-	height:90px;
-	background-image:linear-gradient(transparent, black, transparent);
-}
-header div {
-	position:relative;
-	top:calc(100vh - 90px);
-	height:60px;
-	background-image:linear-gradient(transparent, black, transparent);
 }
 figure {
 	margin:0px;
