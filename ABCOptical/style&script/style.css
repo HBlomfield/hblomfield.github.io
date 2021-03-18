@@ -252,6 +252,10 @@ iframe{
 		margin:0;
 		list-style:none;
 	}
+	ul.table-closed img,
+	ul.table-opened img{
+		display:none;
+	}
 	ul.row{
 		display:grid;
 		grid-template-columns: 175px auto 125px 125px;
@@ -295,6 +299,9 @@ iframe{
 		font-family:'IBMPlex';
 		font-size:1.25em;
 		text-align: left;
+	}
+	ul.row.label>li{
+		border:none;
 	}
 /*   Elements   */
 	main {
